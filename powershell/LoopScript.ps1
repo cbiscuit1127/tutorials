@@ -13,3 +13,5 @@ while ($count -lt 5) {
 	$count++
 }
 
+$sequence = 1..10
+$sequence
