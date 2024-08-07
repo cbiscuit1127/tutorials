@@ -1,0 +1,19 @@
+
+
+    ディレクトリ: C:\Users\nagas\OneDrive\Documents\tutorials\powershell
+
+
+Mode                 LastWriteTime         Length Name                                               
+----                 -------------         ------ ----                                               
+d-----        2024/07/28      2:16                practice                                           
+-a---l        2024/07/25      1:12            107 BasicScript.ps1                                    
+-a---l        2024/07/25      1:16            329 ConditionalScript.ps1                              
+-a---l        2024/07/28      2:11            161 create_files.ps1                                   
+-a----        2024/07/28      2:16            326 create_files_answer.ps1                            
+-a---l        2024/07/25      1:02             50 HelloWorld.ps1                                     
+-a---l        2024/07/25      1:38            335 LoopScript.ps1                                     
+-a---l        2024/07/25      1:39             70 mkdirScript.ps1                                    
+-a---l        2024/07/25      1:31            207 WhereObjectScript.ps1                              
+
+
+
